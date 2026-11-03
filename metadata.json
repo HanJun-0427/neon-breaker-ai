@@ -1,0 +1,6 @@
+{
+  "name": "Neon Breaker DX",
+  "description": "API 연결 없이 브라우저에서 바로 즐기는 박진감 넘치는 네온 아케이드 블록 격파 게임. 다양한 파워업, 콤보 시스템, 레벨 모드 및 무한 서바이벌 모드 지원.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
